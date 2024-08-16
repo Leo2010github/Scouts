@@ -1,0 +1,40 @@
+/* Ejemplo de estilos personalizados */
+body {
+    font-family: Arial, sans-serif;
+    background-color: gray;
+}
+#img1{
+   width: 100px;
+}
+#img2{
+    max-width: 320px;
+    border: 5px;
+    border-color: brown;
+    border-style: solid;
+}
+#img3{
+    max-width: 350px;
+    border: 5px;
+    border-color: brown;
+    border-style: solid;
+}
+h1 {
+    color: #007bff;
+}
+.navbar-brand {
+    font-weight: bold;
+}
+#Algo1{
+    border: 5px;
+    border-color: white;
+    border-style: solid;
+    background-color: rgb(5, 202, 38);
+    color: rgb(102, 15, 119);
+    font-size: 20px;
+    font-weight: 900;
+}
+#T{
+    padding: 10px;
+    border-color: blueviolet;
+    
+}
